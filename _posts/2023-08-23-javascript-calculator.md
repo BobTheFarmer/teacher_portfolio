@@ -43,7 +43,7 @@ HTML implementation of the calculator.
     border: 5px solid black;
   
     
-    align-items: center;
+
   }
   canvas {
     filter: none;
