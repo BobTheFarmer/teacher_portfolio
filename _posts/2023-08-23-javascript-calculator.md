@@ -42,7 +42,7 @@ HTML implementation of the calculator.
     font-size: 20px;
     border: 5px solid black;
   
-    //display: flex;
+    
     align-items: center;
   }
   canvas {
